@@ -1,0 +1,3 @@
+conda activate yolo
+cd deployment/server_docker
+python server.py
